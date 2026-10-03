@@ -67,15 +67,12 @@ The project demonstrates a full business intelligence pipeline: importing raw CS
 
 ---
 
-## 🎓 Internship Information
+## 🎓 Project Information
 
 | Detail | Description |
 |---|---|
-| 🏢 **Company** | Logic Stack |
-| 👨‍💻 **Role** | Data Analyst Intern |
-| 📅 **Internship** | Data Analysis Internship — 23 Jun to 23 Jul 2026 |
-| 🧩 **Task** | Week 4 — Final Project (Task 04) |
-| ⏱️ **Duration** | 7 Days (1-Month Internship Final Week) |
+| 👨‍💻 **Role** | Data Analyst Project |
+| 🧩 **Task** | Week 4 — Data Analyst Project (Task 04) |
 | 💻 **Project Type** | SQL Analytics + Power BI Business Dashboard |
 | 🛠️ **Tools** | SQLite, DB Browser for SQLite, SQL, Power BI, DAX, VS Code |
 | 📦 **Deliverables** | SQL Queries · SQLite Database · Power BI Dashboard · Business Insights |
