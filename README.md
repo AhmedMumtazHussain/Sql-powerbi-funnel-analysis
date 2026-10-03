@@ -21,10 +21,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 
-[![Internship](https://img.shields.io/badge/Internship-Logic%20Stack-2196F3?style=flat-square)](#)
 [![Week](https://img.shields.io/badge/Week-4%20Final%20Project-0D47A1?style=flat-square)](#)
 [![Task](https://img.shields.io/badge/Task-04-F2C811?style=flat-square)](#)
-[![Role](https://img.shields.io/badge/Role-Data%20Analyst%20Intern-1565C0?style=flat-square)](#)
+[![Role](https://img.shields.io/badge/Role-Data%20Analyst%20project-1565C0?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-CPL-blue.svg?style=flat-square)](#license)
 
