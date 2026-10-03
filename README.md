@@ -36,7 +36,7 @@
 
 ## 📌 Project Overview
 
-This repository is the **Final Week (Week 4) Project** of the **Logic Stack Data Analyst Internship** — a complete, end-to-end data analysis workflow built around real-world client website behaviour data.
+This repository is the ** Data Analyst Internship ** — a complete, end-to-end data analysis workflow built around real-world client website behaviour data.
 
 The project demonstrates a full business intelligence pipeline: importing raw CSV data into a relational SQLite database, writing structured SQL queries to extract funnel metrics, revenue performance and user behaviour patterns, and finally presenting executive-level insights through an interactive Power BI dashboard.
 
