@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Funnel%20and%20Revenue%20Analytics&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=SQL%20%7C%20Power%20BI%20%7C%20Week%204%20Final%20Internship%20Project&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Funnel%20and%20Revenue%20Analytics&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=SQL%20%7C%20Power%20BI%20%7C%20Data%20Analyst%20Project&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Client+Site+Funnel+Analysis+using+SQL+%26+Power+BI;SQL+Queries+%7C+Revenue+Analysis+%7C+Drop-off+Insights;User+Journey+%3A+Browse+%E2%86%92+Cart+%E2%86%92+Checkout+%E2%86%92+Purchase;Interactive+Power+BI+Dashboard+%7C+KPI+Cards;Business+Intelligence+%7C+Data+Analyst+Portfolio;Logic+Stack+Data+Analyst+Internship+-+Final+Week" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Client+Site+Funnel+Analysis+using+SQL+%26+Power+BI;SQL+Queries+%7C+Revenue+Analysis+%7C+Drop-off+Insights;User+Journey+%3A+Browse+%E2%86%92+Cart+%E2%86%92+Checkout+%E2%86%92+Purchase;Interactive+Power+BI+Dashboard+%7C+KPI+Cards;Business+Intelligence+%7C+Data+Analyst+Portfolio;Logic+Stack+Data+Analyst+Project" />
 
 <br/>
 
@@ -40,9 +40,8 @@ This repository is the **Final Week (Week 4) Project** of the **Logic Stack Data
 
 The project demonstrates a full business intelligence pipeline: importing raw CSV data into a relational SQLite database, writing structured SQL queries to extract funnel metrics, revenue performance and user behaviour patterns, and finally presenting executive-level insights through an interactive Power BI dashboard.
 
-> 💼 **Internship:** Logic Stack — Data Analysis Internship (23 Jun – 23 Jul 2026)
 
-> 🧩 **Task:** Week 4 Final Project — Client Site Funnel & Revenue Analysis
+> 🧩 **Task:** Data Analyst Project — Client Site Funnel & Revenue Analysis
 
 > 🛠️ **Tools:** SQLite · DB Browser for SQLite · SQL · Power BI Desktop · DAX
 
@@ -654,10 +653,10 @@ This project is licensed under the **CPL License**. See the **[LICENSE](LICENSE)
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAwan4831)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirawan4831)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasirawaninfo.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:my3154831409@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedMumtazHussain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmumtazhussain/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedmumtazhussain.github.io/ahmed-mumtaz-portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmumtazhussain8@gmail.com)
 
 <br/>
 
@@ -692,7 +691,7 @@ Your support motivates me to continue building and sharing high-quality open-sou
 ---
 
 <p align="center">
-Crafted with precision and passion by <strong><a href="https://yasirawaninfo.vercel.app/" target="_blank">Muhammad Yasir</a></strong><br/>
+Crafted with precision and passion by <strong><a href="https://yasirawaninfo.vercel.app/" target="_blank">Ahmed Mumtaz</a></strong><br/>
 
 Full Stack Web Developer • Data Analyst • AI & Automation Enthusiast • Open Source Contributor
 </p>
